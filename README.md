@@ -22,5 +22,3 @@ Multiple AI agents collaborate to gather, summarize, and analyze research inform
 | 🔍 SearcherAgent | Retrieves top web articles using the Tavily API |
 | 📝 SummarizerAgent | Summarizes articles into key points |
 | 📊 AnalystAgent | Combines all summaries into a structured final research report |
-export GROQ_API_KEY="your_groq_api_key"
-streamlit run app.py
